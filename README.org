@@ -1,4 +1,7 @@
 * Parseq (Parametric Equalizer)
+
+/(Par)ametric + (s)helving (eq)ualizer ⇒ Parseq/
+
 An equalizer (EQ) effect is an understated workhorse. It expands the capabilities of your existing pedals, can fix sonic problems with surgical precision, or simply add a different color to your palette.
 
 Graphic EQs can't be beat for their easy-to-use interface, but all those sliders take up a lot of space and cutting long slots in an enclosure isn't as DIY-friendly as a design with rotary knobs.
