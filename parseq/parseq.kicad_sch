@@ -4616,7 +4616,7 @@
 		(dnp no)
 		(uuid "529644c9-2d6e-47b4-a5ef-b32d0eaeffb0")
 		(property "Reference" "C7"
-			(at 149.8535 50.8 0)
+			(at 149.86 56.134 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4625,7 +4625,7 @@
 			)
 		)
 		(property "Value" "330p"
-			(at 149.352 49.022 0)
+			(at 149.352 50.546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5209,7 +5209,8 @@
 	)
 	(symbol
 		(lib_id "Device:Opamp_Quad")
-		(at 91.44 111.76 0)
+		(at 152.4 62.23 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5217,7 +5218,7 @@
 		(dnp no)
 		(uuid "78400ace-7b87-4521-b1ba-0e5192c28c6d")
 		(property "Reference" "U1"
-			(at 91.44 101.6 0)
+			(at 152.4 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5225,7 +5226,7 @@
 			)
 		)
 		(property "Value" "Opamp_Quad"
-			(at 91.44 104.14 0)
+			(at 152.4 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5233,7 +5234,7 @@
 			)
 		)
 		(property "Footprint" "1_trevortjes_lib:DIP-14"
-			(at 91.44 111.76 0)
+			(at 152.4 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5242,7 +5243,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 91.44 111.76 0)
+			(at 152.4 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5251,7 +5252,7 @@
 			)
 		)
 		(property "Description" "Quad operational amplifier"
-			(at 91.44 111.76 0)
+			(at 152.4 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5260,7 +5261,7 @@
 			)
 		)
 		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-			(at 91.44 111.76 0)
+			(at 152.4 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5269,7 +5270,7 @@
 			)
 		)
 		(property "Sim.Name" "kicad_builtin_opamp_quad"
-			(at 91.44 111.76 0)
+			(at 152.4 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5278,7 +5279,7 @@
 			)
 		)
 		(property "Sim.Device" "SUBCKT"
-			(at 91.44 111.76 0)
+			(at 152.4 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5287,7 +5288,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=out1 2=in1- 3=in1+ 4=vcc 5=in2+ 6=in2- 7=out2 8=out3 9=in3- 10=in3+ 11=vee 12=in4+ 13=in4- 14=out4"
-			(at 91.44 111.76 0)
+			(at 152.4 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7784,8 +7785,7 @@
 	)
 	(symbol
 		(lib_id "Device:Opamp_Quad")
-		(at 152.4 62.23 0)
-		(mirror x)
+		(at 91.44 111.76 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7793,7 +7793,7 @@
 		(dnp no)
 		(uuid "e8d4ed24-ca58-47ae-bb37-6db7856d6deb")
 		(property "Reference" "U1"
-			(at 152.4 72.39 0)
+			(at 91.44 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7801,7 +7801,7 @@
 			)
 		)
 		(property "Value" "Opamp_Quad"
-			(at 152.4 69.85 0)
+			(at 91.44 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7809,7 +7809,7 @@
 			)
 		)
 		(property "Footprint" "1_trevortjes_lib:DIP-14"
-			(at 152.4 62.23 0)
+			(at 91.44 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7818,7 +7818,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 62.23 0)
+			(at 91.44 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7827,7 +7827,7 @@
 			)
 		)
 		(property "Description" "Quad operational amplifier"
-			(at 152.4 62.23 0)
+			(at 91.44 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7836,7 +7836,7 @@
 			)
 		)
 		(property "Sim.Library" "${KICAD9_SYMBOL_DIR}/Simulation_SPICE.sp"
-			(at 152.4 62.23 0)
+			(at 91.44 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7845,7 +7845,7 @@
 			)
 		)
 		(property "Sim.Name" "kicad_builtin_opamp_quad"
-			(at 152.4 62.23 0)
+			(at 91.44 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7854,7 +7854,7 @@
 			)
 		)
 		(property "Sim.Device" "SUBCKT"
-			(at 152.4 62.23 0)
+			(at 91.44 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7863,7 +7863,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=out1 2=in1- 3=in1+ 4=vcc 5=in2+ 6=in2- 7=out2 8=out3 9=in3- 10=in3+ 11=vee 12=in4+ 13=in4- 14=out4"
-			(at 152.4 62.23 0)
+			(at 91.44 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
